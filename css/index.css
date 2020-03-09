@@ -305,6 +305,8 @@ p {
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
+  border-radius: 10px;
+  margin: 50px;
 }
 @media (max-width: 500px) {
   .home .walk .walk-img {
